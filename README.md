@@ -8,8 +8,8 @@ This a note taking app that is connected to a server using express.js in order t
 4. Start the server by running either "node server.js" or "npm start".
 6. After a message "App listening on http://localhost:3001" you may copy the host url and paste in your browser in order to see app.
 
-## Screenshot Of Website
-
+## GIF Of Website
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/75599021/138189205-bad5d0de-2099-432e-a74f-7094ecfba594.gif)
 
 ## Built With
 
